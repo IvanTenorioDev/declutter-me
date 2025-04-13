@@ -9,6 +9,10 @@ module.exports = {
         use: 'ts-loader',
         exclude: /node_modules/,
       },
+      {
+        test: /\.js$/,
+        exclude: /node_modules/,
+      },
     ],
   },
   resolve: {
@@ -16,7 +20,11 @@ module.exports = {
   },
   output: {
     filename: 'preload.js',
-    path: path.resolve(__dirname, '.webpack/main'),
+    path: path.resolve(__dirname, '.webpack/preload'),
+  },
+  node: {
+    __dirname: false,
+    __filename: false,
   },
   target: 'electron-preload',
   mode: 'development',
