@@ -1,5 +1,7 @@
 # DeclutterMe
 
+> ⚠️ **Status do Projeto**: Este projeto está atualmente em desenvolvimento ativo. Algumas funcionalidades podem estar incompletas ou sujeitas a alterações.
+
 Aplicativo para organização automática de arquivos e liberação de espaço em seu computador.
 
 ## 🚀 Funcionalidades
@@ -80,3 +82,20 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 📞 Suporte
 
 Para suporte, abra uma issue no GitHub.
+
+## 🏗️ Status do Desenvolvimento
+
+Este projeto está atualmente em fase de desenvolvimento ativo. Aqui está o status das principais funcionalidades:
+
+- [x] Configuração básica do Electron com React e TypeScript
+- [x] Escaneamento de diretórios
+- [x] Detecção de arquivos duplicados
+- [x] Interface básica com Tailwind CSS
+- [x] Internacionalização (i18n) para Português e Inglês
+- [ ] Sistema completo de organização automática
+- [ ] Dashboard com estatísticas detalhadas
+- [ ] Sistema de backup e restauração
+- [ ] Configurações avançadas
+- [ ] Empacotamento para distribuição
+
+Você pode acompanhar o progresso do desenvolvimento através das Issues e Pull Requests no GitHub.
