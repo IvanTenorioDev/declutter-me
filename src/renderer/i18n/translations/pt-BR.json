@@ -1,0 +1,93 @@
+{
+  "app": {
+    "title": "DeclutterMe",
+    "description": "Organize seus arquivos automaticamente e libere espaço no seu computador"
+  },
+  "common": {
+    "loading": "Carregando...",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "delete": "Excluir",
+    "save": "Salvar",
+    "close": "Fechar",
+    "back": "Voltar",
+    "next": "Avançar",
+    "actions": "Ações",
+    "search": "Pesquisar",
+    "settings": "Configurações"
+  },
+  "dashboard": {
+    "title": "Painel de Controle",
+    "diskSpace": "Espaço em Disco",
+    "usedSpace": "Espaço Utilizado",
+    "freeSpace": "Espaço Livre",
+    "selectFolder": "Selecionar Pasta",
+    "startScan": "Iniciar Análise",
+    "scanning": "Analisando... {{progress}}%",
+    "statistics": "Estatísticas Rápidas",
+    "totalFiles": "Total de Arquivos: {{count}}",
+    "duplicateFiles": "Arquivos Duplicados: {{count}}",
+    "oldScreenshots": "Screenshots Antigos: {{count}}",
+    "freeableSpace": "Espaço Liberável: {{size}}"
+  },
+  "fileTypes": {
+    "documents": "Documentos",
+    "images": "Imagens",
+    "audio": "Áudio",
+    "video": "Vídeos",
+    "archives": "Arquivos Compactados",
+    "code": "Código",
+    "executables": "Executáveis",
+    "others": "Outros"
+  },
+  "scanner": {
+    "selectDirectory": "Selecione um diretório para analisar",
+    "scanComplete": "Análise Concluída",
+    "scanFailed": "Falha na Análise",
+    "foundDuplicates": "Encontrados {{count}} arquivos duplicados",
+    "foundOldFiles": "Encontrados {{count}} arquivos antigos",
+    "foundLargeFiles": "Encontrados {{count}} arquivos grandes"
+  },
+  "organizer": {
+    "title": "Organizador de Arquivos",
+    "organizeSelected": "Organizar Selecionados",
+    "organizeAll": "Organizar Todos",
+    "organizing": "Organizando arquivos...",
+    "organized": "{{count}} arquivos organizados",
+    "undoLastAction": "Desfazer Última Ação",
+    "actionUndone": "Ação desfeita com sucesso",
+    "noActionsToUndo": "Não há ações para desfazer",
+    "categories": "Categorias"
+  },
+  "settings": {
+    "title": "Configurações",
+    "language": "Idioma",
+    "theme": "Tema",
+    "light": "Claro",
+    "dark": "Escuro",
+    "system": "Sistema",
+    "autoStart": "Iniciar com o sistema",
+    "notifications": "Notificações",
+    "scanOnStartup": "Analisar pasta padrão ao iniciar",
+    "defaultDirectory": "Diretório padrão",
+    "advanced": "Configurações Avançadas",
+    "resetSettings": "Restaurar Configurações Padrão",
+    "clearHistory": "Limpar Histórico"
+  },
+  "about": {
+    "title": "Sobre",
+    "version": "Versão",
+    "license": "Licença",
+    "website": "Website",
+    "checkUpdates": "Verificar Atualizações",
+    "credits": "Créditos"
+  },
+  "errors": {
+    "directoryNotFound": "Diretório não encontrado",
+    "fileNotFound": "Arquivo não encontrado",
+    "accessDenied": "Acesso negado",
+    "unknownError": "Erro desconhecido",
+    "scanError": "Erro durante a análise",
+    "organizeError": "Erro ao organizar arquivo"
+  }
+} 

@@ -1,0 +1,93 @@
+{
+  "app": {
+    "title": "DeclutterMe",
+    "description": "Automatically organize your files and free up space on your computer"
+  },
+  "common": {
+    "loading": "Loading...",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "delete": "Delete",
+    "save": "Save",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "actions": "Actions",
+    "search": "Search",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "diskSpace": "Disk Space",
+    "usedSpace": "Used Space",
+    "freeSpace": "Free Space",
+    "selectFolder": "Select Folder",
+    "startScan": "Start Scan",
+    "scanning": "Scanning... {{progress}}%",
+    "statistics": "Quick Statistics",
+    "totalFiles": "Total Files: {{count}}",
+    "duplicateFiles": "Duplicate Files: {{count}}",
+    "oldScreenshots": "Old Screenshots: {{count}}",
+    "freeableSpace": "Freeable Space: {{size}}"
+  },
+  "fileTypes": {
+    "documents": "Documents",
+    "images": "Images",
+    "audio": "Audio",
+    "video": "Videos",
+    "archives": "Archives",
+    "code": "Code",
+    "executables": "Executables",
+    "others": "Others"
+  },
+  "scanner": {
+    "selectDirectory": "Select a directory to scan",
+    "scanComplete": "Scan Complete",
+    "scanFailed": "Scan Failed",
+    "foundDuplicates": "Found {{count}} duplicate files",
+    "foundOldFiles": "Found {{count}} old files",
+    "foundLargeFiles": "Found {{count}} large files"
+  },
+  "organizer": {
+    "title": "File Organizer",
+    "organizeSelected": "Organize Selected",
+    "organizeAll": "Organize All",
+    "organizing": "Organizing files...",
+    "organized": "{{count}} files organized",
+    "undoLastAction": "Undo Last Action",
+    "actionUndone": "Action successfully undone",
+    "noActionsToUndo": "No actions to undo",
+    "categories": "Categories"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "autoStart": "Start with system",
+    "notifications": "Notifications",
+    "scanOnStartup": "Scan default folder on startup",
+    "defaultDirectory": "Default directory",
+    "advanced": "Advanced Settings",
+    "resetSettings": "Reset to Default",
+    "clearHistory": "Clear History"
+  },
+  "about": {
+    "title": "About",
+    "version": "Version",
+    "license": "License",
+    "website": "Website",
+    "checkUpdates": "Check for Updates",
+    "credits": "Credits"
+  },
+  "errors": {
+    "directoryNotFound": "Directory not found",
+    "fileNotFound": "File not found",
+    "accessDenied": "Access denied",
+    "unknownError": "Unknown error",
+    "scanError": "Error during scan",
+    "organizeError": "Error organizing file"
+  }
+} 
